@@ -1,2 +1,4 @@
 # git-101
-Benim adim omar kadish- 25 yasindayim - suriyeli - Ankara universite,bilgisayar programciligi <br>
+Benim adım Omar kadish<br>
+Şamlıyım, 25 yaşındayım<br>
+Ankara Üniversitesinde Bilgisayar Programcılığı bölümünde 1.Sınıftayım<br>
