@@ -7,3 +7,7 @@ Hobilerim:<br>
 2. Seyahet etmek.<br>
 3. Teknolojinin haberleri takip etmek.<br>
 4. başka hobiler daha var ama şuan sayamam.<br>
+<br><br>
+İletişim:<br>
+Email: omarkadish@gmail.com<br>
+Tel No: 009055227016<br>
